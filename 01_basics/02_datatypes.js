@@ -26,5 +26,5 @@ let state= null
 console.log(typeof"jyoti");
 console.log(typeof age)
 console.log(typeof null)
-console.log(typeof undefined)//object
+console.log(typeof undefined) //object
 console.table([typeof age,typeof"jyoti",typeof undefined])

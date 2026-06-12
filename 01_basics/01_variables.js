@@ -4,7 +4,7 @@ var accountpassword="12345"
 accountcity="jaipur"
 let accountState;
 
-//account_Id=2  --> not allwoed
+//account_Id=2  --> not allwoed because of const keyword are used
 
 account_Email="stgi.@gmailcom"
 accountcity="manipur"
