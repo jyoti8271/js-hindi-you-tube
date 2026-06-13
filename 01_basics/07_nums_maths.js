@@ -20,10 +20,24 @@ console.log(hundreds.toLocaleString('en-IN')) //it convert the number in the for
 
 
 // @@@@@@@@@@@@@@  Maths  @@@@@@@@@@@@@@@@@@@@@@@jyoti8271
-console.log(Math)
+console.log(Math) // check on console for prototype
 console.log(Math.abs(-4))
 console.log(Math.round(4.6))
 console.log(Math.ceil(4.8))
 console.log(Math.floor(8.5))
+console.log(Math.sqrt(4))
+
+//random
+console.log(Math.random())
+console.log(Math.random(8))
+console.log(Math.random()*10)
+console.log((Math.random()*10)+1)// 1 added beacause of avoiding 0.03 type of number
 
 
+console.log(Math.floor(Math.random()*10)+1) //math.floor is added beacuse of to fix the number
+ 
+
+//trick of min,max define and also it has a formula
+const min=10 
+const max=20
+console.log(Math.floor(Math.random()*(max-min)+min))
