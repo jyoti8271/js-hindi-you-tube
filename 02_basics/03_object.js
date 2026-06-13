@@ -41,7 +41,8 @@ user.greetingtwo = function() {
 Object.freeze(user);
 
 user.greet();
-user.greetingtwo();
+user.greetingtwo(); node 02_basics/04_objects.js
+
 
 
 
