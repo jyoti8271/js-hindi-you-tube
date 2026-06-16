@@ -1,5 +1,6 @@
 let mydate= new Date()
 console.log(mydate)
+console.log(typeof mydate)
 console.log(mydate.toLocaleString())
 console.log(mydate.toString())
 console.log(mydate.toDateString())

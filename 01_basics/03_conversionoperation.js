@@ -1,4 +1,4 @@
-'let score="33" //undefined,null show that the nan in output
+/*'let score="33" //undefined,null show that the nan in output
 
 console.log(typeof score);
 console.log(typeof(score));
